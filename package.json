@@ -15,7 +15,7 @@
         "registry": "https://npm.pkg.github.com/"
     },
     "sideEffects": false,
-    "repository": "git@github.com:movesfinancial/typescript-log",
+    "repository": "git@github.com:movesfinancial/typescript-log.git",
     "scripts": {
         "prepack": "yarn verify && yarn build",
         "build": "yarn build:esm && yarn build:cjs",
